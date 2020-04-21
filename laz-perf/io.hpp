@@ -35,6 +35,7 @@
 #include <limits>
 #include <string.h>
 #include <mutex>
+#include <functional>
 
 #include "formats.hpp"
 #include "excepts.hpp"
